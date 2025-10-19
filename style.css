@@ -1,0 +1,15 @@
+:root {
+    background-color: limegreen;
+}
+
+.container {
+    background-color: white;
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border-radius: 12px;
+    padding: 50px;
+    width: 350px;
+    margin: auto;
+
+}
+
